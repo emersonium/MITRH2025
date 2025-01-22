@@ -3,6 +3,7 @@
 //Emerson Jan 21 2025: note, requries this libary for ESP32-C3:
 // https://github.com/madhephaestus/ESP32Servo 
 // and latest ESP32 Ardunio libarary 
+// IMAGE/Wiring Diagram:  https://emersonium.com/notes/FILES/Poster_Servo1_MITRH2025.pdf
 
 
 int APin = 10; // servo pin
